@@ -1,2 +1,2 @@
-# catedradisid
+# CatedraDisid
 Proyecto Hackathon 
