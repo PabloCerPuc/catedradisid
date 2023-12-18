@@ -13,3 +13,4 @@ RDS: gestionará las bases de datos que almacenan información sobre los cursos.
 AWS SNS: nos ayudará a dar la bienvenida a los clientes mediante envíos de correos electrónicos.
 
 ## Diagrama
+![Imagen local](diagramaapiledd.PNG)
